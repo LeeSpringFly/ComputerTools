@@ -1,19 +1,13 @@
-| *代码托管*     |          |          |               |                  |               |
-|                | [[https://github.com/][GitHub]]   | [[https://gitee.com/][Gitee]]    | [[https://git-scm.com/][Git]]           |                  |               |
-|                |          |          |               |                  |               |
-|                |          |          | [[https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/][廖雪峰Git教程]] |                  |               |
-|----------------+----------+----------+---------------+------------------+---------------|
-| *笔记*         |          |          |               |                  |               |
-|                | [[http://www.jianshu.com/][简书]]     | [[https://www.csdn.net/][CSDN]]     | [[http://note.youdao.com/][有道云笔记]]    |                  |               |
-|----------------+----------+----------+---------------+------------------+---------------|
-| *编辑器*       |          |          |               |                  |               |
-|                | [[http://www.gnu.org/software/emacs/][Emacs]]    |          |               |                  |               |
-| *编辑器小工具* |          |          |               |                  |               |
-|                | [[http://www.melpa.org/#/][Melpa]]    | [[http://orgmode.org/][org-mode]] | [[https://emacs-china.org/][emacs-china]]   |                  |               |
-|----------------+----------+----------+---------------+------------------+---------------|
-| *UML*          |          |          |               |                  |               |
-|                | [[http://plantuml.com/][PlantUML]] |          |               |                  |               |
-|----------------+----------+----------+---------------+------------------+---------------|
-| *JAVA*         | [[http://www.oracle.com/technetwork/java/javase/downloads/index.html][JDK]]      | [[https://spring.io/][Spring]]   | [[http://hibernate.org/][Hibernate]]     | [[http://mvnrepository.com/][Maven Repository]] | [[https://www.jetbrains.com/idea/][IntelliJ IDEA]] |
-| *C++*          | [[https://www.qt.io/][Qt]]       |          |               |                  |               |
+| *代码托管* | [[https://github.com/][GitHub]]   | [[https://gitee.com/][Gitee]]    | [[https://git-scm.com/][Git]]           |                  |               |
+|            |          |          | [[https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/][廖雪峰Git教程]] |                  |               |
+|------------+----------+----------+---------------+------------------+---------------|
+| *笔记*     | [[http://www.jianshu.com/][简书]]     | [[https://www.csdn.net/][CSDN]]     | [[http://note.youdao.com/][有道云笔记]]    |                  |               |
+|------------+----------+----------+---------------+------------------+---------------|
+| *编辑器*   | [[http://www.gnu.org/software/emacs/][Emacs]]    |          |               |                  |               |
+|            | [[http://www.melpa.org/#/][Melpa]]    | [[http://orgmode.org/][org-mode]] | [[https://emacs-china.org/][emacs-china]]   |                  |               |
+|------------+----------+----------+---------------+------------------+---------------|
+| *UML*      | [[http://plantuml.com/][PlantUML]] |          |               |                  |               |
+|------------+----------+----------+---------------+------------------+---------------|
+| *JAVA*     | [[http://www.oracle.com/technetwork/java/javase/downloads/index.html][JDK]]      | [[https://spring.io/][Spring]]   | [[http://hibernate.org/][Hibernate]]     | [[http://mvnrepository.com/][Maven Repository]] | [[https://www.jetbrains.com/idea/][IntelliJ IDEA]] |
+| *C++*      | [[https://www.qt.io/][Qt]]       |          |               |                  |               |
 
